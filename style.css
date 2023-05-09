@@ -1,0 +1,52 @@
+body {
+  background-color: rgb(219, 209, 209);
+  font-family: "Quicksand", sans-serif;
+}
+
+#resume {
+  background-color: #ecedf3;
+  border: 1px solid;
+  box-shadow: 3px 4px;
+}
+
+input {
+  box-shadow: 0.5px black;
+}
+
+select {
+  box-shadow: 0.5px black;
+}
+
+textarea {
+  box-shadow: 0.5px black;
+}
+
+#main-res-cont {
+  background-color: #ffffff;
+}
+
+#img-res-cont {
+  background-color: #93cbf4;
+}
+
+#githubfinal {
+  margin: 0;
+}
+
+#resumefinal {
+  font-family: "Poppins", sans-serif;
+}
+
+#namefinal {
+  font-size: 35px;
+  text-decoration: underline;
+}
+
+.material-icons,
+.material-symbols-outlined {
+  display: inline;
+  vertical-align: bottom;
+  margin-right: 20px;
+  font-size: 30px;
+  line-height: 25px;
+}
